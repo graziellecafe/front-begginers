@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>Front end Beginners</div>
+      <div>FrondEnd Beginners</div>
     </>
   )
 }
